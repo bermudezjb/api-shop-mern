@@ -1,0 +1,13 @@
+.containerHome {
+  display: flex;
+  background-image: url("../../public/Assets/mobile.jpg");
+  background-size: cover;
+  background-position-y: center;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  height: 25rem;
+  width: 100%;
+  margin-bottom: 3rem;
+  color:black
+}
